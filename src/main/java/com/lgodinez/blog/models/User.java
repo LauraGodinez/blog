@@ -1,4 +1,4 @@
-package com.lgodinez.blog;
+package com.lgodinez.blog.models;
 
 import com.sun.javafx.beans.IDProperty;
 

@@ -1,4 +1,4 @@
-package com.lgodinez.blog;
+package com.lgodinez.blog.controllers;
 
 import javax.persistence.*;
 import java.util.*;

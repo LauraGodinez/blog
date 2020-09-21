@@ -1,6 +1,6 @@
 package com.lgodinez.blog.controllers;
 
-import com.lgodinez.blog.Entries;
+import com.lgodinez.blog.models.Entries;
 import com.lgodinez.blog.EntriesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
