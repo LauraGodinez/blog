@@ -5,6 +5,9 @@ import java.time.LocalDateTime;
 @Entity
 @Table(name="entries")
 public class Entries {
+
+    public Entries(){}
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
