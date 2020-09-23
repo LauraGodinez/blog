@@ -1,10 +1,6 @@
 package com.lgodinez.blog.models;
 
-import com.sun.javafx.beans.IDProperty;
-
 import javax.persistence.*;
-import java.util.*;
-
 
 
 @Entity
