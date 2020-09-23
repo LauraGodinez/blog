@@ -12,7 +12,7 @@ import java.util.Optional;
 @Repository
 public interface EntriesRepository extends JpaRepository<Entries, Integer> {
 
-    List<Entries> findByEntryId(Integer id);
+    List<Entries> findById(Integer id);
 
 
 }

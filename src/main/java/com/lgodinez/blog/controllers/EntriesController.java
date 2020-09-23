@@ -26,10 +26,11 @@ public class EntriesController {
         this.entriesRepository = entriesRepository;
     }
 
-    @GetMapping("/entries")
+    @GetMapping("/index")
     List<Entries> all() {
         return entriesRepository.findAll();
     }
+
 
 }
 
