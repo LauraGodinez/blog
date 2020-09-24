@@ -1,4 +1,6 @@
-Full Stack Web Application- this is the back end repository to my blog.
+This is the back end repository to my blog.
+
+Full Stack Web Application- 
 
 Objective - to create an implementation of a web service
 Purpose - to demonstrate the construction of a full-stacked web-application
