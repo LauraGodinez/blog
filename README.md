@@ -1,4 +1,4 @@
-This is the back end repository to my blog.
+This is the back end repository to my blog.Front end can be found https://github.com/LauraGodinez/BlogFrontend. Trello board private but for those who have access can be located https://trello.com/b/gllHZ6mI/case-study
 
 Full Stack Web Application- 
 
