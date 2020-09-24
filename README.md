@@ -1,4 +1,4 @@
-####Full Stack Web Application- this is the back end repository to my blog. ####
+Full Stack Web Application- this is the back end repository to my blog.
 
 Objective - to create an implementation of a web service
 Purpose - to demonstrate the construction of a full-stacked web-application
@@ -21,40 +21,40 @@ Developmental Notes
 Tech Stack Selection
 
 Select at least 1 technology from each of the following categories:
-##Version Control System
 
-Github
+Version Control System
+- Github
+
+Wireframe
+- Mockflow
+- Balsamiq
+- Lucidcharts
+
+Frontend
+- Angular
+
+Business Logic
+- Java
+
+WebServer Implementation
+- Spring Boot
 
 
-Mockflow
-Balsamiq
-Lucidcharts
-##Frontend
-
-Java Server Pages
-##Business Logic
-
-Java
-TypeScript
-##WebServer Implementation
-
-Spring Boot
 At least 1 backing service API
-##Data Layer
 
-MySQL
-PostgreSQL
-MariaDB
-##Web Server Cloud Deployment
+Data Layer
+- MySQL
 
-Heroku
-AWS EC2 Instance
-##Web Application Cloud Deployment
+Web Server Cloud Deployment
+- Heroku
+- AWS EC2 Instance
 
+Web Application Cloud Deployment
 Netlify
 AWS EC2 Instance
-##Installation
 
+
+##Installation
 It is advised that you make install each of the following technologies to ensure that are at least accessible
 Install NodeJs.
 Install Angular.
