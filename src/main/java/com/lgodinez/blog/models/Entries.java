@@ -1,5 +1,7 @@
 package com.lgodinez.blog.models;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import javax.persistence.*;
 import java.time.LocalDateTime;
 @Entity
