@@ -20,6 +20,10 @@ public class RegistrationController {
         if( this.userRepository.findByEmail(user.getEmail()) != null ){
             throw new Exception("Email is already registered");
         }
-        return this.userRepository.save(user);
+        else {
+            String x="user";
+            user.setRole(x);
+            return this.userRepository.save(user);
+        }
     }
 }
